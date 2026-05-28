@@ -1,5 +1,12 @@
 # bags_v0.1.30 GitHub repo
 
+## 26.02.08 bags_0.1.50 
+- Affect Player's speed:
+  - t0 1.25% (4x=5%)
+  - t1 3.75% (4x=7.5%)
+  - t2 2.50% (4x=10%)
+  - t3 5.25% (4x=25%)
+
 ## 26.02.08 bags_0.1.30
 - New Slim New Installation
 - fix game:basket-*
